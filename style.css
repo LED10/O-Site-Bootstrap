@@ -1,0 +1,27 @@
+header{
+    height: 200px;
+    background-color: blueviolet;
+    
+}
+main{
+    height: 200px;
+    background-color: blue;
+}
+aside{
+    height: 200px;
+    background-color: violet;
+}
+
+footer{
+    height: auto;
+    background-color: yellowgreen;
+}
+aside section{
+    height: 50px;
+    background-color: coral;
+
+}
+main section{
+    background-color: aqua;
+    height: 50px;
+}
